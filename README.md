@@ -17,3 +17,16 @@ Repositório de código para as aulas que ministro nos cursos de pós-graduaçã
  * [APIGee](https://apigee.com)
  * [Programmable Web](http://www.programmableweb.com/)
  * [Mashape](https://www.mashape.com/)
+
+## Setup
+
+### Software
+
+ * [JDK 8 (não o JRE)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+ * [Maven 3.1.1](https://maven.apache.org/download.cgi)
+ * [Git](https://git-scm.com/download/win)
+ * [GitHub For Windows](http://windows.github.com)
+ * [Mongoose Webserver](https://cesanta.com/mongoose.shtml)
+ * [Bower](http://bower.io)
+
+### Instalação 
